@@ -12,8 +12,8 @@ CCTV9,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236246/index.
 CCTV10,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236238/index.m3u8
 CCTV11,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236216/index.m3u8
 CCTV12,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236203/index.m3u8
-眼保健操,http://192.168.31.152:5244/alist/d/本地/mnt/sda1/xiazai/八段锦/新版眼保健操.mp4
-八段锦,http://192.168.31.152:5244/alist/d/本地/mnt/sda1/xiazai/八段锦/八段锦-广州健康版(好用).mp4
+眼保健操,http://192.168.31.152:5244/d/BD/mnt/sda1/xiazai/八段锦/新版眼保健操.mp4
+八段锦,http://192.168.31.152:5244/d/BD/mnt/sda1/xiazai/八段锦/八段锦-广州健康版(好用).mp4
 CCTV13,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236169/index.m3u8
 CCTV14,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236317/index.m3u8
 CCTV15,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236165/index.m3u8
@@ -360,4 +360,3 @@ iHOT爱动漫,http://[2409:8087:5e08:24::12]:6610/000000001000/20000000040000000
 第三季6,https://hls.cntv.myhwcdn.cn/asp/hls/2000/0303000a/3/default/27121d74055f468795f4c586c83717df/2000.m3u8
 第三季7,https://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/a23637f5a5794d5d87b33d1575e2193d/2000.m3u8
 第三季8,https://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/51b1937b8b6b469b837b48f6bcb3f0b1/2000.m3u8
-
